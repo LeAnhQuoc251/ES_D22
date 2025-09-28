@@ -3,7 +3,9 @@
 ## A. Nội dung công việc
 
 Đọc và chuyển đổi tín hiệu analog sang số
-
+#### Demo
+- Phần I:https://drive.google.com/file/d/19HwSKFK7r0cVCuKWObuxcm1OHEPfmuL_/view
+- Phần II:https://drive.google.com/file/d/1Lg5vnwO2wJkpHVWyYhMBrzkeEk6K_54W/view
 ## B. Báo cáo chi tiết
 
 ## I. Cấu hình 1 kênh ADC để đọc giá trị từ 1 biến trở 
