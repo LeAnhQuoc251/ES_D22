@@ -2,7 +2,7 @@
 ## Nhiệm vụ
 Viết chương trình có 2 Task cùng in dữ liệu qua UART, không sử dụng Mutex. Hiển thị được sự xung đột
 
-##### Code: https:
+##### Code: https:https://github.com/LeAnhQuoc251/ES_D22/blob/master/Ex_13_Mutex_IRQ/13.2/User/main.c
 
 ##### Video demo: https://drive.google.com/file/d/1oMQrgssujZu0xrbzo_VFEOVD8jzisEBl/view
 
