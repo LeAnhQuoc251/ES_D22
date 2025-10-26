@@ -2,9 +2,9 @@
 ## Nhiệm vụ
 Viết chương trình có 2 task: 1 Task Blink LED, 1 Task xử lý khi có ngắt ngoài thì bật đèn hoặc còi cảnh báo. Yêu cầu xử lý Task bật đèn ngay sau khi hàm xử lý ngắt thực thi. Khi chưa nhấn nút Task bật đèn/ còi ở chế độ Block
 
-### Code: https://github.com/LeAnhQuoc251/ES_D22/blob/master/Ex_13_Mutex_IRQ/13.1/User/main.c
+##### Code: https://github.com/LeAnhQuoc251/ES_D22/blob/master/Ex_13_Mutex_IRQ/13.1/User/main.c
 
-### Video demo: https://drive.google.com/file/d/13GJW9g9hvRyYVsuRDxuUbez6cEr9TVVI/view
+##### Video demo: https://drive.google.com/file/d/13GJW9g9hvRyYVsuRDxuUbez6cEr9TVVI/view
 
 ## Phân tích hoạt động
 
